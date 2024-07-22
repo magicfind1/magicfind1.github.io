@@ -4,7 +4,8 @@
         "angelwing",
         "WraithRecode",
         "WraithDebug",
-         "bypassus",
-        "Aesthetic"
+        "bypassus",
+        "Aesthetic",
+        "SauronResolver"
     ]
 }
