@@ -1,6 +1,9 @@
 {
     "status": "success",
     "lua_files": [
-        "angelwing"
+        "angelwing",
+        "WraithRecode",
+        "WraithDebug",
+        "Aesthetic"
     ]
 }
